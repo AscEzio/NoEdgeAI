@@ -5,7 +5,9 @@ const App: FC = () => {
 
   return (
     <div>
-      
+      <div className='main-title'>
+        NoEdgeAi
+      </div>
     </div>
   )
 }
