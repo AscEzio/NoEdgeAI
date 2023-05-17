@@ -1,0 +1,9 @@
+.main-title{
+  width: 289px;
+  /* display: inline-block; */
+  font-size: 60px;
+  color: aqua;
+  position: relative;
+  z-index: 10;
+  margin: 100px auto 0 auto;
+}
